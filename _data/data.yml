@@ -128,62 +128,62 @@ experiences:
 publications:
     title: Publications
     papers:
-      - title: A method for a comprehensive lipidomic analysis of flaxseed (Linum usitatissimum) with the use of LC–Q-TOF-MS and dispersive micro-solid-phase (μDSPE) extraction.
-        authors: Bakhytkyzy, I., Hewelt-Belka, W., Kot-Wasik, A.
-        journal: Food Chemistry
+      - title: "[A method for a comprehensive lipidomic analysis of flaxseed (Linum usitatissimum) with the use of LC–Q-TOF-MS and dispersive micro-solid-phase (μDSPE) extraction.](https://doi.org/10.1016/j.foodchem.2022.132290)"
+        authors: "Bakhytkyzy, I., Hewelt-Belka, W., Kot-Wasik, A."
+        journal: "Food Chemistry"
         volume: 381
         pages: 32290
         year: 2022
         doi: 10.1016/j.foodchem.2022.132290
-      - title: Associations between sheep meat intake frequency and blood plasma levels of metabolites and lipoproteins in healthy Uzbek adults.
-        authors: Kurmaeva, D., Ye, Y., Bakhytkyzy, I., Aru, V., Dalimova, D., Turdikulova, S., Dragsted, L. O., Engelsen, S. B., Khakimov, B. B.
-        journal: Metabolomics
+      - title: "[Associations between sheep meat intake frequency and blood plasma levels of metabolites and lipoproteins in healthy Uzbek adults.](https://doi.org/10.1007/s11306-023-02005-x)"
+        authors: "Kurmaeva, D., Ye, Y., Bakhytkyzy, I., et al."
+        journal: "Metabolomics"
         volume: 19
         pages: 46
         year: 2023
         doi: 10.1007/s11306-023-02005-x
-      - title: A comprehensive lipidomic analysis of oilseeds using LC-Q-TOF-MS and dispersive micro-solid phase (D-μ-SPE) extraction techniques.
-        authors: Bakhytkyzy, I., Hewelt-Belka, W., Kot-Wasik, A.
-        journal: Journal of Food Composition and Analysis
+      - title: "[A comprehensive lipidomic analysis of oilseeds using LC-Q-TOF-MS and dispersive micro-solid phase (D-μ-SPE) extraction techniques.](https://doi.org/10.1016/j.jfca.2022.105037)"
+        authors: "Bakhytkyzy, I., Hewelt-Belka, W., Kot-Wasik, A."
+        journal: "Journal of Food Composition and Analysis"
         volume: 116
         pages: 32290
         year: 2023
         doi: 10.1016/j.jfca.2022.105037
-      - title: Size Exclusion Coupled to Reversed Phase Liquid Chromatography for the Characterization of Cranberry Products.
-        authors: Bakhytkyzy, I., Nuñez, O., Saurina, J.
-        journal: Food Anal. Methods
-        volume: 12
-        pages: 604–611
-        year: 2019
-        doi: 10.1007/s12161-018-1390-z
-      - title: Determination of flavanols by liquid chromatography with fluorescence detection. Application to the characterization of cranberry-based pharmaceuticals through profiling and fingerprinting approaches.
-        authors: Bakhytkyzy, I., Nuñez, O., Saurina, J.
-        journal: Journal of Pharmaceutical and Biomedical Analysis
-        volume: 156
-        pages: 206-213
-        year: 2018
-        doi: 10.1016/j.jpba.2018.04.031
-      - title: Fast Determination of 1-Methyl-1H-1,2,4-triazole in Soils Contaminated by Rocket Fuel Using Solvent Extraction, Isotope Dilution and GC–MS.
-        authors: Zhubatov, Z. K., Kenessov, B., Bakaikina, N. V., Bimaganbetova, A., Akynbayev, N., Bakhytkyzy, I.
-        journal: Chromatographia
-        volume: 79
-        pages: 491-499
-        year: 2016
-        doi: 10.1007/s10337-016-3054-8
-      - title: Non-volatile molecular composition and discrimination of single grape white wines of Chardonnay, Riesling, Sauvignon Blanc and Silvaner using untargeted GC-MS analysis.
-        authors: Khakimov, B., Bakhytkyzy, I., Fauhl-Hassek, C., Engelsen, S. B.
-        journal: Food Chemistry
-        volume: 369
-        pages: 130878
-        year: 2022
-        doi: 10.1016/j.foodchem.2021.130878
-      - title: The dispersive micro-solid phase extraction method for MS-based lipidomics of human breast milk.
-        authors: Bakhytkyzy, I., Hewelt-Belka, W., Kot-Wasik, A.
-        journal: Microchemical Journal
+      - title: "[The dispersive micro-solid phase extraction method for MS-based lipidomics of human breast milk.](https://doi.org/10.1016/j.microc.2019.104269)"
+        authors: "Bakhytkyzy, I., Hewelt-Belka, W., Kot-Wasik, A."
+        journal: "Microchemical Journal"
         volume: 152
         pages: 104269
         year: 2020
         doi: 10.1016/j.microc.2019.104269
+      - title: "[Non-volatile molecular composition and discrimination of single grape white wines of Chardonnay, Riesling, Sauvignon Blanc and Silvaner using untargeted GC-MS analysis.](https://doi.org/10.1016/j.foodchem.2021.130878)"
+        authors: "Khakimov, B., Bakhytkyzy, I., Fauhl-Hassek, C., Engelsen, S. B."
+        journal: "Food Chemistry"
+        volume: 369
+        pages: 130878
+        year: 2022
+        doi: 10.1016/j.foodchem.2021.130878
+      - title: "[Size Exclusion Coupled to Reversed Phase Liquid Chromatography for the Characterization of Cranberry Products.](https://doi.org/10.1007/s12161-018-1390-z)"
+        authors: "Bakhytkyzy, I., Nuñez, O., Saurina, J."
+        journal: "Food Anal. Methods"
+        volume: 12
+        pages: 604–611
+        year: 2019
+        doi: 10.1007/s12161-018-1390-z
+      - title: "[Determination of flavanols by liquid chromatography with fluorescence detection. Application to the characterization of cranberry-based pharmaceuticals through profiling and fingerprinting approaches.](https://doi.org/10.1016/j.jpba.2018.04.031)"
+        authors: "Bakhytkyzy, I., Nuñez, O., Saurina, J."
+        journal: "Journal of Pharmaceutical and Biomedical Analysis"
+        volume: 156
+        pages: 206-213
+        year: 2018
+        doi: 10.1016/j.jpba.2018.04.031
+      - title: "[Fast Determination of 1-Methyl-1H-1,2,4-triazole in Soils Contaminated by Rocket Fuel Using Solvent Extraction, Isotope Dilution and GC–MS.](https://doi.org/10.1007/s10337-016-3054-8)"
+        authors: "Zhubatov, Z.K., Kenessov, B., Bakaikina, N.V., Bimaganbetova, A., Akynbayev, N., Bakhytkyzy, I."
+        journal: "Chromatographia"
+        volume: 79
+        pages: 491-499
+        year: 2016
+        doi: 10.1007/s10337-016-3054-8
 
 #skills:
 #    title: "Skills & Proficiency"
