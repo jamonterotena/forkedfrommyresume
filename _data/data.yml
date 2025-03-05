@@ -100,6 +100,30 @@ experiences:
           - Developed analytical methods for GC-MS and LC-MS.
           - Conducted GMP/GLP studies.
           - Prepared analytical methods, protocols, and reports.
+      - role: Research Intern
+        company: Department of Food Science, Copenhagen University, Copenhagen, Denmark
+        time: July 2021 - December 2021
+        details: |
+          - Conducted study on the impact of sheep meat intake frequency on blood plasma metabolites and lipoproteins in healthy Uzbek adults.
+          - Utilized multivariate and univariate data analyses to identify significant differences in plasma levels based on intake levels.
+      - role: Research Intern
+        company: Department of Chemistry, University of the Basque Country, Bilbao, Spain
+        time: September 2019 - December 2019
+        details: |
+          - Trained in multivariate data analysis tools using MATLAB.
+          - Constructed strategy for converting raw data into MATLAB environment.
+          - Employed curve resolution methods like Multivariate Curve Resolution and PARAFAC to resolve GC elution profiles and mass spectra of plant oil extracts.
+          - Conducted advanced statistical evaluation of various oil samples.
+      - role: Research Intern
+        company: College of Liberal Arts and Sciences, University of Connecticut
+        time: February 2015 - March 2015
+        details: |
+          - Engaged in project exploring new organic materials for potential applications in catalysis and sensors.
+      - role: Junior Research Assistant
+        company: “Ecology of Biosphere” Laboratory, Center of Physical - Chemical Methods of Research and Analysis
+        time: September 2014 - August 2015
+        details: |
+          - Conducted research on environmental analytical chemistry.
 
 publications:
     title: Publications
