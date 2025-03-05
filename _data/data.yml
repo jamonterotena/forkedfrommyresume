@@ -1,0 +1,245 @@
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+     
+    # Profile information
+    name: Jose Montero
+    tagline: Bioinformatics Scientist
+    avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
+    
+    # Sidebar links
+    fullname: "   Montero Tena, José Antonio"
+    citizenship: Spanish
+    timezone: Europe/Berlin
+    email: jmonterotena@gmail.com
+    linkedin: joseantoniomonterotena
+    github: jamonterotena
+    phone: +34 603 769 969
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    certificates: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
+    
+    languages:
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
+        - idiom: English
+          level: Fluent
+        - idiom: German
+          level: Fluent
+        - idiom: Italian
+          level: Conversational
+    interests:
+      title: Certificates
+      info:
+        - item: DataCamp
+    interests:
+      title: Interests
+      info:
+        - item: Classical Guitar
+        - item: Mountain Bike
+        - item: Languages
+
+career-profile:
+    title: ABOUT ME
+    summary: |
+        Ph. D. candidate in Bioinformatics with strong programming skills and a methodical approach to  research.\
+        Great communication skills in different languages, adaptable, with a positive attitude and experience working across diverse fields.\
+        Passionate about leveraging computational techniques for scientific advancement in collaborative environments.      
+        
+education:
+    title: Education
+    info:
+      - degree: "Ph. D. in Agrobioinformatics"
+        university: "Justus Liebig University (JLU)"
+        time: "March 2022 – Present"
+        details: |
+          - Topic: Defining the global recombination landscape in *Brassica napus* (See *Experience* for more info)
+      - degree: "M. Sc. in Agrobiotechnology"
+        university: "Justus Liebig University (JLU)"
+        time: "Oct 2019 – Oct 2021"
+        details: |
+          - Several subjects in biostatistical analysis in R.
+          - Thesis: haplotype-based pangenome diversity analysis in wheat (R coding, R/ggplot graphs, NGS-based variant discovery) ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)). 
+      - degree: "M. D. in Secondary Education Teacher’s Training"
+        university: "University of Extremadura (UEx)"
+        time: "Oct 2017 – Jun 2018"
+        details: |
+          - Teaching methods for Science education
+      - degree: "B. Sc. in Biochemistry"
+        university: "University of Sevilla (US)"
+        time: "Sep 2013 – Jul 2017"
+        details: |
+          - Regular lab practicals
+          - Subjects in programming and statistical analysis with R
+          - Thesis: Biochemical and physiological effects of ozone on *Capsicum annuum* (greenhouse cultivation, spectrophotometry, ROS assays) ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
+
+experiences:
+    title: Experience
+    info:
+      - role: "Scientific Researcher (Ph. D. candidate)"
+        time: "March 2022 – Present"
+        company: "Justus Liebig University (JLU)"
+        details: |
+          - Research focus on recombination in *Brassica napus*
+          - Development of technical skills ([coding for genomic data and multi-omic data analysis](https://github.com/GoliczGenomeLab/haploMAGIC),
+          [machine learning](https://jamonterotena.github.io/ML-reports/),
+          [static](https://jamonterotena.github.io/haploRILs-benchmarking-results/)/[dynamic](https://jamontero.shinyapps.io/VCF_parameters/) reports - click for examples)
+          - Participation in international conferences in the fields of bioinformatics, genomics and plant breeding by [presenting talks](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) or [posters](https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop) about my scientific contributions and attending workshops.
+          - Assistance in teaching
+          - Teamwork in a [big multidisciplinary team](https://www.irtg2843.de/about)
+          - Supervised by Prof. Dr. Agnieszka Golicz ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      - role: "Graduate Student Assistant"
+        time: "Dec 2021 - Feb 2022"
+        company: "Justus Liebig University (JLU)"
+        details: |
+              - Building genome annotation (collaboration in the *Faba bean* genome assembly project)
+              - Computational work in functional genomics (gene ortholog identification, gene sequence alignment, RNA-seq)
+              - Supervised by Prof. Dr. Agnieszka Golicz
+      - role: "Industry Intern"
+        time: "March 2021 – April 2021"
+        company: "Deutsche Saatveredelung (DSV)"
+        details: |
+          - Molecular breeding lab tasks
+          - Development of KASP markers for resistance-related genes using BLAST  ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      - role: "Science Classroom Teacher"
+        time: "Sep 2018 – Jul 2019"
+        company: "Holmer Green Senior School (HGSS)"
+        details: |
+           - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
+           - Supervision of practical scientific lectures
+           - Evaluation of assignments and examinations
+           - Regular communication with progenitors and colleagues
+      - role: "Undergraduate Student Assistant"
+        company: "University of Extremadura"
+        time: "June 2014 - June 2014"
+        details: |
+          - Biochemistry of natural antioxidants
+          - Molecular biology lab techniques 
+          - Supervised by Prof. Pedro Macias-Laso ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      - role: "Volunteer Assistant"
+        time: "Aug 2016 - Sep 2016"
+        company: "Hostelling Scotland (SYHA)"
+        details: |
+            - Assistance with work activities (roomkeeping, catering, reception)
+
+publications:
+    title: Publications
+    papers:
+      - title: "CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed (SUBMITTED)"
+        authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
+        conference: "The Plant Journal (accepted)"
+      - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
+      genotyping errors"
+        authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
+        conference: "G3 (Bethesda) (2024)"
+        link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607 #"[https://doi.org/10.1093/g3journal/jkae109](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)"
+#      - title: "Poster: Defining the Genome-wide Recombination Landscape of Brassica napus"
+#        authors: "Montero-Tena JA"
+#        conference: "GCB German Conference of Bioinformatics, Bielefeld, Germany (30 Sep – 2 Oct 2024)"
+      - title: "Oral presentation (watch video): haploMAGIC: Phasing and detecting recombination in multiparental populations (awarded prize to best oral presentation)"
+        authors: "Montero-Tena JA"
+        conference: "IRC International Rapeseed Congress, Sydney, Australia (24 – 27 Sep 2023)"
+        link: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s #"[Oral Presentation: haploMAGIC: Phasing and Detecting Recombination in Multiparental Populations (Awarded Prize to Best Oral Presentation)](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)"
+      - title: "Poster: Generating genome-wide recombination maps using SNP genotyping"
+        authors: "Montero-Tena JA"
+        journal: "GPZ German Plant Breeding Conference, Düsseldorf, Germany"
+        date: "12 – 14 Sep 2022"
+        link: https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop #"[Generating Genome-Wide Recombination Maps Using SNP Genotyping](https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop)"
+
+certifications:
+      title: Certifications
+      list:
+        - name: "Workshop: Standardizing and harmonizing NGS analysis workflows"
+          start: "Sep 2024"
+          end:
+          organization: "German Conference of Bioinformatics, Bielefeld, Germany"
+          credentialid:
+          credentialurl: www.gcb2024.de/
+          credentialname: link
+          details: |
+        - name: "Workshop: Machine Learning with tidymodels"
+          start: "Aug 2024"
+          end:
+          organization: "Posit Conference, Seattle, USA"
+          credentialid:
+          credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL?utm_source=share&utm_medium=member_desktop
+          credentialname: link
+          details: |
+        - name: "DataCamp courses (x18) on Python, R, and Shell, covering coding fundamentals, data manipulation, statistics, and machine learning"
+          start: 2022
+          end:
+          organization: "datacamp"
+          credentialid:
+          credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
+          credentialname: link
+          details: |
+        - name: "Plant tissue culture and genetic transformation"
+          start: "April 2020"
+          end: 
+          organization: "JLU, Giessen, Germany"
+          credentialid:
+          credentialurl: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
+          credentialname: link
+          details: |
+        - name: "Bioinformatics for beginners"
+          start: "Sep 2021"
+          end:
+          organization: "Coursera, UC San Diego"
+          credentialid:
+          credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-biology-meets-activity-6841831236089065472-7bwX?utm_source=share&utm_medium=member_desktop
+          credentialname: link
+          details: |
+        - name: "Whole genome sequencing of bacterial genomes"
+          start: "Sep 2021"
+          end:
+          organization: "Coursera, TU Denmark"
+          credentialid:
+          credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV?utm_source=share&utm_medium=member_desktop
+          credentialname: link
+          details: |
+
+skills:
+    title: "Skills & Proficiency"
+    toolset:
+      - name: "R"
+        level: 100%     
+      - name: "Bash"
+        level: 100%
+      - name: "Linux Terminal"
+        level: 100%
+      - name: "Next Generation Sequencing Analysis"
+        level: 100%
+      - name: "Fast Typing"
+        level: 100%
+      - name: "MarkDown/Quarto"
+        level: 80%
+      - name: "Machine Learning with Tidymodels"
+        level: 80%
+      - name: "Python"
+        level: 70%
+      - name: "git"
+        level: 70%
+      - name: "High Performance Computing (HPC)"
+        level: 70%
+      - name: "SLURM"
+        level: 50%
+      - name: "Version control"
+        level: 50%
+      - name: "SQL"
+        level: 50% 
+      - name: "ChatGPT (Premium Member) for Productivity"
+        level: 30%
+      - name: "OMOP Common Data Model (CDM)"
+        level: 0%
+
+recommendations:
+  title: Recommendations
+  list:
+  - person: Prof. Dr. Agnieszka A Golicz
+    email: Agnieszka.Golicz@agrar.uni-giessen.de 
+    phone: +496419937432
+    role: Professor for Agrobioinformatics at Justus Liebig University
+    recommendation: |
+      *"Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
