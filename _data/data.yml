@@ -65,25 +65,25 @@ education:
     info:
       - degree: Doctor of Philosophy
         university: Department of Analytical chemistry, Gdansk University of Technology
-        time: October 2017 - January 2024
+        time: Oct 2017 - Jan 2024
         details: |
           - Thesis: New sample preparation methods for foodomics based on dispersive micro solid phase extraction and RP-Q-TOF-MS.
       - degree: Erasmus Mundus Master in Quality in Analytical Laboratories
         university: Department of Chemical Engineering and Analytical Chemistry, University of Barcelona
-        time: October 2016 - September 2017
+        time: Oct 2016 - Sep 2017
         details: |
           - Thesis: Extraction, Determination and Characterization of Polyphenolic Compounds in Cranberry-Based Products by Liquid Chromatography and Chemometrics.
       - degree: Erasmus Mundus Master in Quality in Analytical Laboratories
         university: Department of Analytical chemistry, Gdansk University of Technology
-        time: October 2015 - September 2016
+        time: Oct 2015 - Sep 2016
       - degree: Master of Natural Sciences in Chemistry
         university: al - Farabi Kazakh National University
-        time: September 2013 - June 2015
+        time: Sep 2013 - June 2015
         details: |
           - Thesis: Modified hydrogels for the immobilization of a medicinal drug.
       - degree: Bachelor of Technics and Technologies in Chemical Technology of Organic Substances
         university: al - Farabi Kazakh National University
-        time: September 2009 - June 2013
+        time: Sep 2009 - June 2013
         details: |
           - Thesis: Immobilization of physiologically active substances in nanostructured hydrogels.
 
@@ -92,23 +92,23 @@ experiences:
     info:
       - role: Postdoctoral Researcher
         company: Department of Biochemistry & Synthetic Metabolism, Max Planck Institute for Terrestrial Microbiology
-        time: July 2024 - currently
+        time: July 2024 - now
       - role: Analytical Specialist
         company: Selvita S.A.
-        time: January 2023 - June 2024
+        time: Jan 2023 - June 2024
         details: |
           - Developed analytical methods for GC-MS and LC-MS.
           - Conducted GMP/GLP studies.
           - Prepared analytical methods, protocols, and reports.
       - role: Research Intern
         company: Department of Food Science, Copenhagen University, Copenhagen, Denmark
-        time: July 2021 - December 2021
+        time: July 2021 - Dec 2021
         details: |
           - Conducted study on the impact of sheep meat intake frequency on blood plasma metabolites and lipoproteins in healthy Uzbek adults.
           - Utilized multivariate and univariate data analyses to identify significant differences in plasma levels based on intake levels.
       - role: Research Intern
         company: Department of Chemistry, University of the Basque Country, Bilbao, Spain
-        time: September 2019 - December 2019
+        time: Sep 2019 - Dec 2019
         details: |
           - Trained in multivariate data analysis tools using MATLAB.
           - Constructed strategy for converting raw data into MATLAB environment.
@@ -116,12 +116,12 @@ experiences:
           - Conducted advanced statistical evaluation of various oil samples.
       - role: Research Intern
         company: College of Liberal Arts and Sciences, University of Connecticut
-        time: February 2015 - March 2015
+        time: Feb 2015 - March 2015
         details: |
           - Engaged in project exploring new organic materials for potential applications in catalysis and sensors.
       - role: Junior Research Assistant
         company: “Ecology of Biosphere” Laboratory, Center of Physical - Chemical Methods of Research and Analysis
-        time: September 2014 - August 2015
+        time: Sep 2014 - Aug 2015
         details: |
           - Conducted research on environmental analytical chemistry.
 
